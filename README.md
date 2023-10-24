@@ -93,7 +93,18 @@ XGBoostRF: 1333.0
 
 **DecisionTree** has the lowest number of False Negatives (725), followed closely by XGBoost and RandomForest. This makes these models the most suitable for minimizing the risk of missing actual positive cases of stroke.
 
-**Recommendations**
+**Top Features**
+
+Average Glucose Levels and Stress levels came out as top important feature.
+
+![Top Features](images/top_features.png)
+
+**Test the model**
+
+![Test Model](images/test_model.png)
+
+
+#### Next steps
 
 Fine-Tuning: For the models with the lowest FN, like RandomForest, you could consider fine-tuning hyperparameters to see if you can reduce FN even more without significantly affecting other metrics.
 
@@ -107,25 +118,6 @@ Additional Features or Data: Sometimes additional information can help the model
 
 Remember that in medical contexts, it's not only about the model's statistical performance but also about how clinicians will use this information. Therefore, domain expertise is crucial in interpreting these results.
 
-**Top Features**
-
-Average Glucose Levels and Stress levels came out as top important feature.
-
-![Top Features](images/top_features.png)
-
-**Test the model**
-
-![Test Model](images/test_model.png)
-
-
-#### Next steps
-What suggestions do you have for next steps?
-
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
-
-
-##### Contact and Further Information
+- [Link to notebook](./stroke_prediction.ipynb)
