@@ -6,6 +6,7 @@ Sridhar Subramaniam
 
 #### Executive summary
 ![Stroke](/images/stroke_image.jpg)
+<img src="/Sriworks1/stroke_prediction/raw/main/images/stroke_image.jpg" alt="Stroke" style="max-width: 100%;" width="350">
 ** [Image Source](https://vitals.sutterhealth.org/stroke-and-heart-attack-rapid-response-timing-is-everything/)
 
 #### Rationale
