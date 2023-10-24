@@ -33,7 +33,7 @@ What methods are you using to answer the question?
 
 Will be using the crisp-DM methodology.
 
-![Crisp](images/crisp.png)
+<img src="images/crisp.png" alt="Crisp" style="max-width: 100%;" width="400">
 
 #### Results
 What did your research find?
