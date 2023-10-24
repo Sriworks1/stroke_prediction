@@ -38,6 +38,14 @@ Will be using the crisp-DM methodology.
 #### Results
 What did your research find?
 
+**Data Analysis**
+1. All of categorical information had closely equal influence on the diagnosis. None of them stood out
+
+![Categorical features](images/category_features.png)
+
+2. Doing a correlation matric on numerical features yield similar results.
+
+![Correlation matrix](images/corr_heatmap.png)
 
 
 #### Next steps
