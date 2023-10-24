@@ -1,13 +1,12 @@
 # Stroke Detection
+<img src="images/stroke_image.jpg" alt="Stroke" style="max-width: 100%;" width="350">
 
+** [Image Source](https://vitals.sutterhealth.org/stroke-and-heart-attack-rapid-response-timing-is-everything/)
 **Author**
 
 Sridhar Subramaniam
 
 #### Executive summary
-<img src="images/stroke_image.jpg" alt="Stroke" style="max-width: 100%;" width="350">
-
-** [Image Source](https://vitals.sutterhealth.org/stroke-and-heart-attack-rapid-response-timing-is-everything/)
 
 #### Rationale
 Why should anyone care about this question?
