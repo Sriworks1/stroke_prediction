@@ -5,7 +5,7 @@
 Sridhar Subramaniam
 
 #### Executive summary
-![Stroke](/images/stroke_image.jpg)
+![Stroke](/images/stroke_image.jpg | width=50)
 ** [Image Source](https://vitals.sutterhealth.org/stroke-and-heart-attack-rapid-response-timing-is-everything/)
 
 #### Rationale
